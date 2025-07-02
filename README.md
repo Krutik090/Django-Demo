@@ -29,7 +29,6 @@ This repository is intended for:
 
 ## 🗂 Directory Structure
 
-```
 
 Django-Demo/
 ├─ demo\_project/            # Django project folder
@@ -41,7 +40,6 @@ Django-Demo/
 ├─ requirements.txt         # Python dependencies
 └─ README.md
 
-````
 
 ---
 
