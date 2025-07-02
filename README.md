@@ -99,14 +99,6 @@ This project is shared for demonstration and educational use only. No license ap
 
 ```
 
----
-
-## 🔖 Short GitHub Description (for "About" section)
-
-> A basic Django web app for training and demo purposes. Shows project structure, routing, views, and template rendering.
-
----
-
 Let me know if this demo app includes models or forms — I can update the README accordingly.  
 
 ```
